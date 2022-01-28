@@ -1,0 +1,23 @@
+{
+  "name": "js_homework_2",
+  "version": "1.0.0",
+  "description": "homework for 2 lesson",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mariagolubeva/js_homework_2.git"
+  },
+  "author": "Maria Golubeva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mariagolubeva/js_homework_2/issues"
+  },
+  "homepage": "https://github.com/mariagolubeva/js_homework_2#readme",
+  "dependencies": {
+    "fs-extra": "^10.0.0",
+    "yargs": "^17.3.1"
+  }
+}
